@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "${default}",
+                "limitSymbolsToIncludedHeaders": false
+            },
+            "includePath": [
+                "/home/fiend/voice_grab/ros2_ws/install/zed_components/include/**",
+                "/home/fiend/voice_grab/ros2_ws/install/zed_interfaces/include/**",
+                "/opt/ros/humble/include/**",
+                "/home/fiend/LineFollowingRobot/ros_ws/src/line_bhakt/include/**",
+                "/usr/include/**",
+                "${workspaceFolder}/AutoCarROS2/autocar_map/include"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}
